@@ -1,0 +1,67 @@
+html{
+    background-color: cadetblue
+}
+#mex{
+    width: 28%;
+    height: 300px;
+}
+#basck{
+    width: 30%;
+}
+#colt{
+    width:30%;
+}
+#tt{
+    width: 300px;
+}
+img{
+    border-radius: 10%;
+    border: solid;
+    border-style: double;
+    border-color: beige;
+    margin: 12px;
+}
+h3{
+    display: inline-block;
+    font-family:monospace;
+    text-align: center;
+    color: aliceblue;
+    text-decoration-color: darkturquoise; 
+    font-size: 250%;
+    width: 100%; 
+    height: 100%;
+}
+h5{
+    display: inline-block;
+    color: fuchsia;
+    font-family: sans-serif;
+    text-align: left;
+    text-decoration: underline;
+    font-size: 100%;
+    padding: 10px;
+    margin: 12px;
+}
+.tit{
+    border: solid;
+    border-color: aqua;
+    display: inline-block;
+}
+li{
+    font-family: cursive;
+    color:khaki;
+    clear: both;
+    margin: 30px;
+    padding: 13px;
+}
+#p1{
+    width: 40%;
+    float: left;
+    margin: auto;
+    clear: both;
+}
+#p2{
+    position: relative;
+    float: right;
+    margin: auto;
+    width: 55%;
+}

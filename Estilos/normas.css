@@ -1,0 +1,23 @@
+html{
+    background-color: bisque;
+}
+header{
+    font-family: monospace;
+    font-size: 20px;
+    color: darkcyan;
+    text-align: center;
+    text-decoration: underline;
+    border: solid;
+    border-color:darkred;
+}
+iframe{
+    margin: 2px;
+    padding: 5%;
+    border: solid;
+    border-color: beige;
+    background-color: darkseagreen;
+    border-radius: 5%;
+    align-content: center;
+    width: 90%;
+    height: 680px;
+}
